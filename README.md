@@ -75,7 +75,7 @@ Steps performed:
 
 ---
 
-## 💻 Streamlit Web Application
+## Streamlit Web Application
 
 The project includes an interactive **Streamlit web interface** where users can:
 

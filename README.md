@@ -1,4 +1,4 @@
-# Course_Purchase_Prediction
+# Course Purchase Prediction
 This project builds a **Machine Learning model** to predict whether a student is likely to purchase an online course based on their learning behavior and activity on an EdTech platform.
 
 The trained model is deployed using **Streamlit**, allowing users to input student details and receive **real-time predictions along with purchase probability**.

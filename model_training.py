@@ -21,4 +21,9 @@ accuracy = accuracy_score(y_test, y_pred)
 
 print("Model Accuracy:", accuracy)
 
-pickle.dump(model, open("model.pkl", "wb"))
+model_data = {
+    "model": model,
+    "accuracy": accuracy
+}
+
+pickle.dump(model_data, open("model.pkl", "wb"))
